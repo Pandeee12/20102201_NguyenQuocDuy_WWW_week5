@@ -26,8 +26,8 @@ public class Week5Application {
     CommandLineRunner initData(){
         return  args -> {
             Random random = new Random();
-            for(int i=1; i<889; i++){
-                Address address = new Address(random.nextInt(1,888)+"","Le Loi"
+            for(int i=1; i<705; i++){
+                Address address = new Address(random.nextInt(1,704)+"","Le Loi"
                         ,"HCM",random.nextInt(70000,80000)+"",CountryCode.VN);
                 addressRepository.save(address);
                 Candidate candidate = new Candidate("HeheName ~ "+i,LocalDate.of(2002
