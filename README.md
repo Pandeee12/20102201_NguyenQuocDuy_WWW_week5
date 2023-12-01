@@ -26,4 +26,6 @@
  Insert Job and Skill
  ![addjob](https://github.com/Pandeee12/Week05_lab_20102201_NguyenQuocDuy/assets/144768405/56ad12b2-d24e-4e12-b32e-58d066b256ed)
 ![addskill](https://github.com/Pandeee12/Week05_lab_20102201_NguyenQuocDuy/assets/144768405/7bb0000e-e975-4b68-990c-cceb29d06e46)
+
+https://github.com/Pandeee12/Week06_lab_20102201_NguyenQuocDuy.git
  
